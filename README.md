@@ -10,12 +10,13 @@ They are mostly far from complete, but maybe you can use them for your own games
 * Stappenbach 2020
 
 
+## Links
+[AutoDrive](https://github.com/Stephan-S/FS19_AutoDrive)
+[CoursePlay](https://github.com/Courseplay/courseplay) ([releases](https://github.com/Courseplay/courseplay/releases))
+
+
 ---
 Happy farming,
+
 JustDen
-
-
-
-
-
 
