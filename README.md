@@ -5,6 +5,8 @@ When I'm playing Farming Simulator 19 (FS19), I use AutoDrive (AD) and CoursePla
 
 Just to test if this works, I started this repository and put my AD routes in here.
 
+I create maps 'on the fly', so during gaming...
+
 They are as they are, complete or partially complete, hopefully you can use them.
 Sometimes there are Dutch names (yes I'm Dutch) for the destinations, but of course you can change them!
 
